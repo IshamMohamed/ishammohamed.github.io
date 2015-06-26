@@ -3,22 +3,22 @@
   "name": "Isham Mohamed Iqbal's CV and Portfolio.",
   "icons": [
     {
-      "src": "icon/1x.png",
+      "src": "/icon/1x.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "icon/2x.png",
+      "src": "/icon/2x.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "icon/3x.png",
+      "src": "/icon/3x.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "icon/4x.png",
+      "src": "/icon/4x.png",
       "sizes": "192x192",
       "type": "image/png"
     }
